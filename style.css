@@ -12,9 +12,14 @@ body {
   }
 
   h1  { color: white;
-text-align: center;}
-  p3  { color: white;
-text-align: center;}
-  h3  { color: white;}
-  p1  { color: white;}
-  h1 {font-family: 'Times New Roman', Times, serif;}
+    text-align: center;
+    font-family: sans-serif;
+}
+  h2  { color: white;
+    text-align: center;
+}
+  h3  { color: white;
+    text-align: center;
+}
+  p1  { color: white;
+}
