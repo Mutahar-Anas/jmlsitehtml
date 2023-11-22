@@ -7,9 +7,10 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    color: white;
     text-align: center;
   }
+
+image {align-self: center ;}
 
   h1  { color: white;
     text-align: center;
@@ -24,3 +25,5 @@ body {
   p1  { color: white;
 }
   a { color:pink}
+
+  img {height: 10000; width: 5000;}
