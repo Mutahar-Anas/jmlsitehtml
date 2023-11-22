@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    padding: 20px;
   }
 
   footer {
@@ -8,6 +9,7 @@ body {
     bottom: 0;
     width: 100%;
     text-align: center;
+    padding: 20px;
   }
 
 image {align-self: center ;}
@@ -26,4 +28,9 @@ image {align-self: center ;}
 }
   a { color:pink}
 
-  img {height: 10000; width: 5000;}
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
