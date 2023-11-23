@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(94, 94, 94);
     padding: 20px;
   }
 
@@ -9,8 +9,8 @@ body {
     bottom: 0;
     width: 100%;
     text-align: center;
-    padding: 20px;
-    color: black;
+    padding: 40;
+    background-color: black;
   }
 
 image {align-self: center ;}
@@ -18,15 +18,19 @@ image {align-self: center ;}
   h1  { color: white;
     text-align: center;
     font-family: sans-serif;
+    font-size: 100px;
 }
   h2  { color: white;
     text-align: center;
+    font-size: 80px;
 }
   h3  { color: white;
     text-align: center;
+    font-size: 70px
 }
-  p1  { color: white;
-}
+
+p1 {color: white; font-size: 25px}
+
   a { color:pink}
 
   .center {
